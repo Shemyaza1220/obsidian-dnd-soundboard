@@ -1,0 +1,10 @@
+{
+  "id": "dnd-soundboard",
+  "name": "DnD Soundboard",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Ein Soundboard für DnD-Sessions direkt in der Obsidian-Sidebar.",
+  "author": "Du",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
